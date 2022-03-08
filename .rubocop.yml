@@ -1,0 +1,14 @@
+Layout/IndentationStyle:
+  EnforcedStyle: spaces
+
+Metrics:
+  Enabled: false
+
+Naming/MethodParameterName:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/RegexpLiteral:
+  EnforcedStyle: slashes
