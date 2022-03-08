@@ -17,11 +17,11 @@ class Elevator
   end
 
   def direction
-    @current_direction.dup
+    @current_direction
   end
 
   def floor
-    @current_floor.dup
+    @current_floor
   end
 
   # Attempt to respect the direction we're currently moving; if we aren't moving, try UP first
